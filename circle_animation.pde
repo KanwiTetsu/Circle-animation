@@ -97,10 +97,6 @@ void draw()
   text("time: " + time, 10, 20);
   text("size: " + size, 10, 30);
 
- //--- logs:
-
- println( balls_size.range - balls_size.get_value() );
-
 }
 
 float x0(float TEMP_X)
